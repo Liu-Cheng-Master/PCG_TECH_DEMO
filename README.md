@@ -45,6 +45,6 @@ Related scripts: CameraControl.cs
 # Tech Demo Execution：
 After enter the scene TECH_DEMO, when click on Start the map of the maze and the second area is automatically created, while each Agent performs the relevant actions according to the settings.
 
-Related Scene: TECH_DEMO
+Related Scene: TECH_DEMO.unity
 
 # Video Documentation URL：
