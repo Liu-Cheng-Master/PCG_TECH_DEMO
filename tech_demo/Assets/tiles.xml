@@ -2,5 +2,6 @@
   <tiles>
 <tile name="Assets/Prefabs/Wall" symmetry="X" weight="1.0"/>
 	</tiles>
-<neighbors>	</neighbors>
+<neighbors>  <neighbor left="Assets/Prefabs/Wall 0" right="Assets/Prefabs/Wall 0"/>
+	</neighbors>
 </set>
