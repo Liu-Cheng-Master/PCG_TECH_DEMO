@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-// Reference: https://github.com/SunnyValleyStudio/ProceduralMapCHessMaze
+//Code Reference: https://github.com/SunnyValleyStudio/ProceduralMapCHessMaze
 public class mapgenerator : MonoBehaviour
 {
 
