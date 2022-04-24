@@ -5,10 +5,6 @@ Steering Behaviours using the Unity Movement AI package： https://github.com/st
 UnityWFC library by Joseph Parker: https://github.com/mxgmn/WaveFunctionCollapse \
 Algorithmic implementation of AI for automatic obstacle avoidance: http://www.theappguruz.com/blog/unity-3d-enemy-obstacle-awarness-ai-code-sample
 
-Code Reference: 
-Cellular Automata Generator
-Reference from: https://github.com/SunnyValleyStudio/ProceduralMapCHessMaze
-
 # Map Generate:
 1. Wave Function Collapse:Generating the first maze map area using the UnityWFC library by Joseph Parker. This method is based on the collapse wave function and generates maps randomly in a certain area based on the input sample prefabricated bodies and their constituent structures. This generated maze is used to test the pathfinding AI.
 
@@ -50,5 +46,9 @@ Related scripts: CameraControl.cs
 After enter the scene TECH_DEMO, when click on Start the map of the maze and the second area is automatically created, while each Agent performs the relevant actions according to the settings.
 
 Related Scene: TECH_DEMO.unity
+
+Code Reference: \
+Cellular Automata Generator
+Reference from: https://github.com/SunnyValleyStudio/ProceduralMapCHessMaze
 
 # Video Documentation URL：
