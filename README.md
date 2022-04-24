@@ -6,7 +6,7 @@ UnityWFC library by Joseph Parker: https://github.com/mxgmn/WaveFunctionCollapse
 Algorithmic implementation of AI for automatic obstacle avoidance: http://www.theappguruz.com/blog/unity-3d-enemy-obstacle-awarness-ai-code-sample
 
 # Map Generate:
-1. Wave Function Collapse:Generating the first maze map area using the UnityWFC library by Joseph Parker.
+1. Wave Function Collapse:Generating the first maze map area using the UnityWFC library by Joseph Parker.This generated maze is used to test the pathfinding AI.
 
 Related scripts: file: unity-wave-function-collapse
 
@@ -15,7 +15,8 @@ Related scripts: file: unity-wave-function-collapse
 Related scripts：mapgenerator.cs
 
 
-# Map Generate:
+# AI auto pathfinding algorithm：
+1. 
 
 
 
