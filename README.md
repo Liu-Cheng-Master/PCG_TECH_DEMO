@@ -47,8 +47,8 @@ After enter the scene TECH_DEMO, when click on Start the map of the maze and the
 
 Related Scene: TECH_DEMO.unity
 
-Code Reference: \
-Cellular Automata Generator
+# Code Reference:
+Cellular Automata Generator \
 Reference from: https://github.com/SunnyValleyStudio/ProceduralMapCHessMaze
 
 # Video Documentation URL：
