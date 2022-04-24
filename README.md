@@ -29,7 +29,7 @@ Also, in order to interact with the player, the agent incorporates distance dete
 
 Related scripts: EnemyNav.cs
 
-3. Boss2: This Agent uses a finite state machine (FMS) to construct its state transitions and uses collision boxes to detect players. When a player is not in the collision box area, the player is added to the collision list and the Agent state is changed to attack (as indicated by the Agent colour changing to red), when the player leaves the collision box area, the collision list removes the player from the list and the Agent state is changed to guard (as indicated by the Agent colour changing back to blue). When there are no players in the collision box area, the Agent state always remains as Guard.
+3. Boss2: This Agent uses a finite state machine (FMS) to construct its state transitions and uses collision boxes to detect players. When a player is not in the collision box area, the player is added to the collision list and the Agent state is changed to attack (as indicated by the Agent colour changing to red) and the Agent is also face to players at all times. when the player leaves the collision box area, the collision list removes the player from the list and the Agent state is changed to guard (as indicated by the Agent colour changing back to blue). When there are no players in the collision box area, the Agent state always remains as Guard.
 
 Related scripts: Boss2Behave.cs
 
